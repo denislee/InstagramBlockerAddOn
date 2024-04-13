@@ -22,8 +22,8 @@ window.addEventListener('scroll', function() {
       elements[i].style.border = '5px solid blue'
       rootElement = viewOlderPostElement?.parentElement?.parentElement?.parentElement;
       rootElement.style.border = '5px solid red'
-      //rootElement.style.visibility = 'hidden'; // Makes content invisible but keeps space
-      rootElement.style.display = 'none'; // This line hides the rootElement
+      rootElement.style.visibility = 'hidden'; // Makes content invisible but keeps space
+      //rootElement.style.display = 'none'; // This line hides the rootElement
     }
   }
 

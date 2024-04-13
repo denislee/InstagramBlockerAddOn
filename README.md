@@ -1,3 +1,7 @@
+# Add-on Firefox
+
+https://addons.mozilla.org/en-US/firefox/addon/instagramsuggestedandadblocker/
+
 # Purpose
 InstagramBlocker is an add-on for Firefox to stop the scrolling after the message "You're all caught up" in the main page, avoiding to see content from non-followed accounts that are shown by the algorithm.
 
